@@ -13,7 +13,7 @@
  | Kotlin
 /
 \
- [ Olther things ]
+ [ Other things ]
  | 
  | Networking
  | Linux
